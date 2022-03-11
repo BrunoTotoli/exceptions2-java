@@ -1,4 +1,4 @@
-package model;
+package application;
 
 import model.entities.Account;
 import model.exceptions.AccountException;
